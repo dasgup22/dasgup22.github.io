@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Dipto Dasgupta"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Student supervisor for RHS"
+  location         : "East Lansing,MI"
+  employer         : "Michigan State University"
+  uri              : "https://d2l.msu.edu"
+  email            : "dasgup22@msu.edu" 
 
   # Academic websites
   academia         : # URL

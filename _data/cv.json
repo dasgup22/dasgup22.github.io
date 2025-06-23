@@ -1,68 +1,51 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Dipto Dasgupta",
+    "email": "dasgup22@msu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://d2l.msu.edu",
+    "summary": "Currently employed at Michigan State University. Working as a student supervisor.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "891 Birch rd",
+      "postalCode": "48825",
+      "city": "East Lansing",
       "countryCode": "US",
-      "region": ""
+      "region": "Mid-west"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "diptodg",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
+        "username": "diptodg21",
         "url": "http://orcid.org/yourorcidurl"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
+        "username": "dasgup22",
         "url": "https://github.com/academicpages"
       }
     ]
   },
   "work": [],
   "education": [
+  
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
+      "institution": "Michigan State University",
+      "area": "B.S. in Computer Science and Engineering.",
+      "studyType": "Synchronus ",
       "startDate": "",
       "endDate": "2012",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": ["Python,C++,HTML,MySQL"],
+  "languages": ["English,Bengali,Hindi"],
+  "interests": ["Reading"],
   "references": [],
   "publications": [
     {
